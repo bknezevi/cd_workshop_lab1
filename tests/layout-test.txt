@@ -1,2 +1,2 @@
 title #{title} - Training7
-h1 REPLACE THIS HEADER
+h1 TRAINING 7 - BAZINGA!
